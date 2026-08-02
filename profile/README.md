@@ -26,7 +26,7 @@ It all lives in [Horizun Hub](https://horizunhub.com): one plan, everything incl
 
 **Pablo Alejandro Zúñiga Guevara** is founder and CEO of Horizun Group, a civil engineer, BIM Management specialist, and holds a master's degree in BIM for Civil Engineering and Infrastructure.
 
-He has over 10 years leading BIM, VDC, AI, PMO and digital transformation implementations across Latin America. He teaches and develops BIM programs at Pontificia Universidad Javeriana, is an Autodesk Certified Instructor (Silver), Autodesk Certified Professional in Revit, Microsoft Certified Power BI Data Analyst, and a buildingSMART professional.
+He has over 10 years leading BIM, VDC, AI, PMO and digital transformation implementations across Latin America and United States. He teaches and develops BIM programs at Pontificia Universidad Javeriana, is an Autodesk Certified Instructor (Silver), Autodesk Certified Professional in Revit, Microsoft Certified Power BI Data Analyst, and a buildingSMART professional.
 
 His work bridges engineering, real-world construction and software development: Revit automation, model auditing, Power BI, 4D/5D planning, interoperability and applied AI for AEC projects.
 
