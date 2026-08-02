@@ -51,7 +51,7 @@ More open source projects on the way.
 
 ## 🌎 Where we are
 
-Mexico · Chile · **Colombia (HQ)** · Argentina · Peru · Dominican Republic · Venezuela
+United States · Mexico · Chile · **Colombia (HQ)** · Argentina · Peru · Dominican Republic · Venezuela · Bahamas
 
 ## 📬 Let's talk
 
