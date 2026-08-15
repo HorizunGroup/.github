@@ -44,6 +44,7 @@ His work bridges engineering, real-world construction and software development: 
 ## ⭐ Open source projects
 
 - [Horizun Revit MCP](https://github.com/HorizunGroup/horizun-revit-mcp) — AI connected to Revit for model automation and operations.
+- [NavisCoord MCP](https://github.com/HorizunGroup/naviscoord-mcp) — coordination intelligence for Autodesk Navisworks, exposed over MCP.
 - [Horizun PBI MCP](https://github.com/HorizunGroup/horizun-pbi-mcp) — automation and connectivity for Power BI.
 - [awesome-bim-latam](https://github.com/HorizunGroup/awesome-bim-latam) — a curated list of open source BIM tools, APIs and resources.
 
