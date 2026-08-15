@@ -6,7 +6,7 @@
 
 # Horizun Group
 
-**BIM, data & AI for construction.** Operating since 2018 · 500+ professionals trained across 7 countries in LATAM.
+**BIM, data & AI for construction.** Operating since 2018 · 500+ professionals trained across 7 countries in LATAM and USA.
 
 [![Horizun Hub](https://img.shields.io/badge/Horizun_Hub-horizunhub.com-0A66C2?style=for-the-badge)](https://horizunhub.com)
 [![PowerBIM Online](https://img.shields.io/badge/PowerBIM_Online-pbim.horizunhub.com-1F6FEB?style=for-the-badge)](https://pbim.horizunhub.com)
