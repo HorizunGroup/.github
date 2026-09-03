@@ -24,7 +24,7 @@ It all lives in [Horizun Hub](https://horizunhub.com): one plan, everything incl
 
 ## 🧠 Expert leadership
 
-**Pablo Alejandro Zúñiga Guevara** is founder and CEO of Horizun Group, a civil engineer, BIM Management specialist, and holds a master's degree in BIM for Civil Engineering and Infrastructure.
+**[Pablo Alejandro Zúñiga Guevara](https://www.horizungroup.com/en/about/pablo-zuniga/)** is founder and CEO of [Horizun Group](https://www.horizungroup.com), a civil engineer, BIM Management specialist, and holds a master's degree in BIM for Civil Engineering and Infrastructure.
 
 He has over 10 years leading BIM, VDC, AI, PMO and digital transformation implementations across Latin America and United States. He teaches and develops BIM programs at Pontificia Universidad Javeriana, is an Autodesk Certified Instructor (Silver), Autodesk Certified Professional in Revit, Microsoft Certified Power BI Data Analyst, and a buildingSMART professional.
 
@@ -56,9 +56,9 @@ United States · Mexico · Chile · **Colombia (HQ)** · Argentina · Peru · Do
 
 ## 📬 Let's talk
 
-- 🌐 Web: [horizunhub.com](https://horizunhub.com)
+- 🌐 Web: [horizungroup.com](https://www.horizungroup.com) · [horizunhub.com](https://horizunhub.com)
 - ▶️ YouTube: [HorizunHub](https://www.youtube.com/@HorizunHub)
-- 👤 Professional profile: [Pablo Alejandro Zúñiga Guevara](https://www.linkedin.com/in/pablo-alejandro-zuniga-guevara-6b4a49129/)
+- 👤 Founder: [Pablo Alejandro Zúñiga Guevara](https://www.horizungroup.com/en/about/pablo-zuniga/) · [LinkedIn](https://www.linkedin.com/in/pablo-alejandro-zuniga-guevara-6b4a49129/) · [GitHub](https://github.com/pablo-horizun)
 
 > We don't build technology like a demo. We build the tools BIM teams need to deliver real projects.
 
